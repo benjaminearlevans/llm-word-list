@@ -1,6 +1,6 @@
-# Comprehensive List of LLM-Likely Words and Phrases (No Duplicates)
+# Comprehensive List of LLM-Likely Words and Phrases
 
-Below is a unified, categorized collection of words and phrases that often appear in LLM-generated text more frequently than in everyday human writing. This list consolidates multiple sources and removes duplicates to provide one comprehensive reference.
+Below is a unified, categorized collection of words and phrases that often appear in LLM-generated text more frequently than in everyday human writing. 
 
 ---
 
